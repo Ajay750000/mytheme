@@ -11,10 +11,10 @@
                         <div class="item">
                             <h4 class="text-uppercase">Contact us</h4>
                             <p class="address">
-                                123 Second Street Fifth <br>
-                                Avenue,<br>
-                                Manhattan, New York<br>
-                                +987 654 3210
+                                TD 2 Second World Bank Colony <br>
+                                Near NCC Office,<br>
+                                Roorkee, Haridwar<br>
+                                +917500007540
                             </p>
                         </div>
                     </div>
