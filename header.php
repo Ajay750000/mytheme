@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php wp_head(); ?>
+	
 	 <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Go Tours</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <?php wp_head();?>
+        <title><?php the_title();?></title>
 </head>
 <body>
 
