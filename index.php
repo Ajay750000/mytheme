@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Go Tours</title>
+        <title><?php the_title();?></title>
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/fontawesome.min.css">
@@ -143,9 +143,9 @@
             </div>
         </div>
         
-        <? get_footer();?>
+        <?php get_footer();?>
         
-        <script src="<?php echo get_template_directory_uri();?>/js/jquery-3.3.1.min.js"></script>
+        <script src="js/jquery-3.3.1.min.js"></script>
         <script>
             $(function () {
                 
